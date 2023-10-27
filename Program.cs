@@ -20,6 +20,8 @@ namespace GitConsole
             double distance = Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2);
             Console.WriteLine($"Расстояние между точками: {distance}");
             Console.ReadLine();
+            double circumference = 2 * Math.PI * distance;
+            Console.WriteLine($"Длина окуржности с радиусом {distance}: {circumference})");
         }
     }
 }
