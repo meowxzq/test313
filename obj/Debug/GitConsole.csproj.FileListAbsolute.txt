@@ -1,0 +1,8 @@
+C:\Users\stud\кудырова 313\GitConsole\bin\Debug\GitConsole.exe.config
+C:\Users\stud\кудырова 313\GitConsole\bin\Debug\GitConsole.exe
+C:\Users\stud\кудырова 313\GitConsole\bin\Debug\GitConsole.pdb
+C:\Users\stud\кудырова 313\GitConsole\obj\Debug\GitConsole.csproj.AssemblyReference.cache
+C:\Users\stud\кудырова 313\GitConsole\obj\Debug\GitConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\кудырова 313\GitConsole\obj\Debug\GitConsole.csproj.CoreCompileInputs.cache
+C:\Users\stud\кудырова 313\GitConsole\obj\Debug\GitConsole.exe
+C:\Users\stud\кудырова 313\GitConsole\obj\Debug\GitConsole.pdb
