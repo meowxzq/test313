@@ -17,6 +17,9 @@ namespace GitConsole
             int y2 = random.Next(1, 10);
             Console.WriteLine($"Первая точка: ({x1}, {y1})");
             Console.WriteLine($"Вторая точка: ({x2}, {y2})");
+            double distance = Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2);
+            Console.WriteLine($"Расстояние между точками: {distance}");
+            Console.ReadLine();
         }
     }
 }
